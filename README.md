@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Abel Berhe a Software Engineer in Test from Oakland CA, specializing in Web Applications, APIs and Mobile Application using Java and Python related Stack with Clean Architecture.
+I'm Abel Berhe a Software Engineer in Test from Oakland CA, specializing in Web Applications, APIs and Mobile Application using Java and Python related task with Clean Architecture.
 
 🔭 my goal is to ensure that the software application is implemented well
 🌱 I write detailed project test samples, test plans and guides at my GitHub
