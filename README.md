@@ -7,8 +7,8 @@ I'm from Oakland CA, specializing in Web Applications, APIs and Mobile Applicati
 *  🔭 my goal is to ensure that the software application is implemented well
 *  🌱 I write detailed project test samples, test plans and guides at my GitHub
 *  👯 I’m pretty active .
-*  📫 How to reach me: * https://www.linkedin.com/in/abel-b-8b39b2232/
-* 📫 Email * abelberhe2127@gmail.com
+*  📫 How to reach me: * [Linkedin](https://www.linkedin.com/in/abel-b-8b39b2232/)
+* 📫 Email * [myemail](abelberhe2127@gmail.com)
   
 I follow logic based creativity
 
