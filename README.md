@@ -8,7 +8,7 @@ I'm from Oakland CA, specializing in Mule Applications, APIs and other cloud bas
 *  🌱 I design, develop, deploy , test and maintain robust mule applications.
 *  👯 I’m pretty active on Github.
 *  📫 How to reach me: * [Linkedin](https://www.linkedin.com/in/abel-berhe-607521219/)
-* 📫 Email * [myemail](abelberhe2127@gmail.com)
+* 📫 Email * abelberhe2127@gmail.com
   
 I follow logic based creativity
 
