@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Abel
 #### I'm a MuleSoft Engineer
-![I'm a MuleSoft Engineer ](https://media.licdn.com/dms/image/D5616AQFesosd5ZKq7g/profile-displaybackgroundimage-shrink_350_1400/0/1710184324630?e=1717632000&v=beta&t=ia0iKKpLST3RABa2aWn4Zar4HJx59kQ8kVd0YIo6gXo)
 
 I'm from Oakland CA, specializing in Mule Applications, APIs and other cloud based integrations solutions using MuleSoft with Clean Architecture.
 
