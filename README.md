@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Abel
-#### I'm a Sr. MuleSoft Developer
+#### Sr. MuleSoft Developer
 
 I am a MuleSoft Engineer from Oakland, CA, specializing in Mule Applications, APIs, and cloud-based integration solutions using MuleSoft, with a focus on Clean Architecture..
 
